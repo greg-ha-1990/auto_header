@@ -1,0 +1,6 @@
+DOMAIN = "auth_header"
+CONF_USERNAME_HEADER = "username_header"
+CONF_TARGET_TOKEN = "target_token"
+CONF_TARGET_GUEST_USER_ID = "target_guest_user_id"
+CONF_ALLOW_BYPASS_LOGIN = "allow_bypass_login"
+CONF_DEBUG = "debug"
